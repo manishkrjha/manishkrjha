@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishkrjha" alt="manishkrjha" /></a> </p>
 
-- 🔭 I’m currently working on [Cryptocurrency App](https://github.com/manishkrjha/Crypto-Tracker)
+- 🔭 I’m currently working on [File Zipper using Huffman Coding](https://github.com/manishkrjha/File-Zipper)
 
 - 🌱 I’m currently learning **ReactJs**
 
