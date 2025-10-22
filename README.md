@@ -1,30 +1,55 @@
-<h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">B.Tech (2023) | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Manish Jha</h1>
+<h3 align="center">Software Engineer | Java Backend Developer</h3>
 
+---
 
+### 🧑‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishkrjha" alt="manishkrjha" /></a> </p>
+I’m a **Software Engineer at NRI Fintech**, building scalable, secure, and maintainable backend systems using **Java**, **Spring Boot**, and **PostgreSQL**.
+My work revolves around designing **RESTful APIs**, optimizing **microservice performance**, and ensuring **code quality** through testing and CI/CD integration.
 
-- 🔭 I’m currently working on [File Zipper using Huffman Coding](https://github.com/manishkrjha/File-Zipper)
+I enjoy solving complex problems, improving system reliability, and writing clean, efficient code that powers real-world applications.
 
-- 🌱 I’m currently learning **ReactJs**
+---
 
-- 💬 Ask me about **Data Structures, Algorithms, Databases, Object oriented programming, Frontend Development.**
+### 🧠 Tech Stack
 
-- 📫 How to reach me **manishjha2204@gmail.com**
+* **Languages:** Java, C++, SQL
+* **Frameworks & Libraries:** Spring Boot, JUnit, Mockito
+* **Databases:** PostgreSQL, SQL
+* **Tools & Platforms:** Git, Jenkins, Kafka, JS7, SonarQube, OCI
+* **Paradigms:** Microservices Architecture, Event-Driven Systems, Agile SDLC
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eySLlTs7DYRWI7_FHykHsyI7K4KRWpAQ/view?usp=sharing](https://drive.google.com/file/d/1eySLlTs7DYRWI7_FHykHsyI7K4KRWpAQ/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jhamanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhamanish" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/manishkrjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/manishkrjha" height="30" width="40" /></a>
+### 🏢 Experience
+
+**Software Engineer — NRI Fintech (Jan 2023 – Present)**
+
+* Developed and maintained **REST APIs** for enterprise-grade microservices using Spring Boot.
+* Implemented **JS7 JobScheduler** for automating trade batch executions.
+* Built **JUnit test frameworks** with Mockito to improve test coverage.
+* Integrated **SonarQube** with CI/CD pipelines for continuous quality checks.
+* Designed an **event-driven logging pipeline** using Kafka to improve observability and debugging efficiency.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkrjha&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkrjha&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkrjha&show_icons=true&locale=en" alt="manishkrjha" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkrjha&" alt="manishkrjha" /></p>
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/manjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjha" height="30" width="40" /></a>
+<a href="mailto:manishjha2204@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="40" /></a>
+<a href="https://leetcode.com/jhamanish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhamanish" height="30" width="40" /></a>
+</p>
